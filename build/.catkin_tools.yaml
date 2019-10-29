@@ -1,0 +1,6 @@
+devel_space: /home/thomas/project_bci/devel
+install: false
+install_space: /home/thomas/project_bci/install
+profile: default
+source_space: /home/thomas/project_bci/src
+workspace: /home/thomas/project_bci

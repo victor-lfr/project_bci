@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/thomas/project_bci/devel/.private/acquisition_biosemi/setup.sh
