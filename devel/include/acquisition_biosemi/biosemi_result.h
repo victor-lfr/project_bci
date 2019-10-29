@@ -1,1 +1,0 @@
-/home/thomas/project_bci/devel/.private/acquisition_biosemi/include/acquisition_biosemi/biosemi_result.h

@@ -1,1 +1,0 @@
-/home/thomas/project_bci/devel/.private/acquisition_biosemi/lib/pkgconfig/acquisition_biosemi.pc

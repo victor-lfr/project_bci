@@ -1,1 +1,0 @@
-/home/thomas/project_bci/devel/.private/acquisition_biosemi/share/gennodejs/ros/acquisition_biosemi/msg/_index.js

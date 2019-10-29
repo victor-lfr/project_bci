@@ -1,1 +1,0 @@
-/home/thomas/project_bci/devel/.private/acquisition_biosemi/share/roseus/ros/acquisition_biosemi/manifest.l
